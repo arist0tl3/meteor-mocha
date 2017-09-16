@@ -1,4 +1,4 @@
-import { mocha } from 'meteor/practicalmeteor:mocha-core';
+import { mocha } from 'meteor/vigorwebsolutions:mocha-core';
 import prepForHTMLReporter from './prepForHTMLReporter';
 import './browser-shim';
 
