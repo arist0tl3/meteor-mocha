@@ -1,15 +1,15 @@
 Package.describe({
   name: 'meteortesting:mocha',
   summary: 'Run Meteor package or app tests with Mocha',
-  git: 'https://github.com/meteortesting/meteor-mocha.git',
+  git: 'https://github.com/arist0tl3/meteor-mocha.git',
   documentation: '../README.md',
-  version: '0.4.4',
+  version: '0.4.5',
   testOnly: true,
 });
 
 Package.onUse(function onUse(api) {
   api.use([
-    'practicalmeteor:mocha-core@1.0.0',
+    'vigorwebsolutions:mocha-core@1.0.2',
     'ecmascript@0.3.0',
   ]);
 
