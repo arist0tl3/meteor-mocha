@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'meteortesting:mocha',
+  name: 'vigorwebsolutions:mocha',
   summary: 'Run Meteor package or app tests with Mocha',
   git: 'https://github.com/arist0tl3/meteor-mocha.git',
   documentation: '../README.md',
