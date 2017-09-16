@@ -1,4 +1,4 @@
-import { mochaInstance } from 'meteor/practicalmeteor:mocha-core';
+import { mochaInstance } from 'meteor/vigorwebsolutions:mocha-core';
 import { startBrowser } from 'meteor/meteortesting:browser-tests';
 
 import setArgs from './runtimeArgs';
